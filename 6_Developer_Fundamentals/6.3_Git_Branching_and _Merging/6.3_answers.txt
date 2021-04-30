@@ -1,0 +1,10 @@
+git branch <new_branch> OR git checkout -b <new_branch>
+
+fast forward is the basic merge --> happens when there have been no commits since the last branch
+recursive is when there are multiple commits going on on different branches at the same time and then they try to merge and everything explodes
+
+git checkout <branch>
+
+git branch -d <branch>
+
+two peeps make their own branches, make changes to the same files, and then merge into the same branch again.

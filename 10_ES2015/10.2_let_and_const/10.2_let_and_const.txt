@@ -1,0 +1,19 @@
+/* ES5 */
+var PI = 3.14;
+PI = 42; // stop me from doing this!
+
+/* ES2015 */
+const PI = 3.14
+
+What is the difference between var and let? 
+    var = function scoped; can be redeclared
+    let = block scoped; cannot be redeclared
+What is the difference between var and const?
+    var = function scoped; can be redefined
+    const = block scoped; cannot be redefined
+What is the difference between let and const?
+    let = can be redefined
+    const = cannot be redefined
+What is hoisting?
+    the compiler will declared a var variable prior to its definition.
+    the compiler will not declared a let or const variable prior to its definition.

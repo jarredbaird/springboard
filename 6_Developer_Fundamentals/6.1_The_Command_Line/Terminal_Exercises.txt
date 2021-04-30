@@ -1,0 +1,30 @@
+What does the man command do? Type in man rm. How do you scroll and get out?
+    Gives additional information about another command.
+    You hit enter or up and down arrows to scroll.
+    You hit 'q' to get out
+Look at the man page for ls. What does the -l flag do? What does the -a flag do?
+    "use a long listing format"
+    "do not ignore entries starting with ."
+How do you jump between words in the terminal?
+    ctrl + left or right
+How do you get to the end of a line in terminal?
+    ctrl + e or 'end'
+How do you move your cursor to the beginning in terminal?
+    ctrl + a or 'home'
+How do you delete a word (without pressing backspace multiple times) in terminal?
+    alt + d
+What is the difference between a terminal and shell?
+    shell accesses the OS's services. 
+    terminal is the program that displays the shell to the user
+What is an absolute path?
+    a path starting from the root directory or home directory
+What is an relative path?
+    a path beginning from where you currently are
+What is a flag? Give three examples of flags you have used.
+    a flag changes a command's function
+    ls -l
+    rm -rf
+    ls -a
+What do the r and f flags do with the rm command?
+    -r recursively deletes
+    -f forces removal
